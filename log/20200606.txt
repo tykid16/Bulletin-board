@@ -1,0 +1,21 @@
+・heroku 登録完了
+
+ref
+- https://qiita.com/daisukeoda/items/42e802c498ca8a78b8f2
+- https://qiita.com/arashida/items/b2f2e01259238235e187
+
+
+- git initとは
+Gitのinitコマンドは、一言で言うと「リポジトリを新規に作成」するときに使用するコマンドです。 initコマンドを実行すると、現在のディレクトリまたは指定したディレクトリに「. git」というリポジトリを構成するディレクトリが作成されます。 .gitにはGitで使用するファイルが新規に作成されます
+
+
+trouble
+- heroku install が完了したが、test.php を heroku openをしてみても
+403 forbitten となり、開けない。
+
+ref
+- https://www.sejuku.net/blog/71268#:~:text=Git%E3%81%AEinit%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E3%81%AF,%E6%96%B0%E8%A6%8F%E3%81%AB%E4%BD%9C%E6%88%90%E3%81%95%E3%82%8C%E3%81%BE%E3%81%99%E3%80%82
+
+- heroku と github の連携で自動デプロイが行えるように設定する。
+ref
+- https://qiita.com/sho7650/items/ebd87c5dc2c4c7abb8f0
